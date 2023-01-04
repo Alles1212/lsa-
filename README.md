@@ -29,7 +29,7 @@
 **VM版本要改成6.1.40版本**才可以
 
 ## Problem on Raspberry pi
-- 在mediapipe和picamera上有矛盾，mediapipe(只支援在64bit),picamera(只支援在32bit)，一開始因為picamera指令和偵測不到的問題(可用```vcgencmd get_camera```偵測和查看有沒有```/dev/video0```)所以將Raspberrypi的OS從64bit改到32bit，後來經過嘗試後發現mediapipe在32bit上會有許多trouble
+- 在mediapipe和picamera上有矛盾，mediapipe(支援在64bit),picamera(支援在32bit)，一開始因為picamera指令和偵測不到的問題(可用```vcgencmd get_camera```偵測和查看有沒有```/dev/video0```)所以將Raspberrypi的OS從64bit改到32bit，後來經過嘗試後發現mediapipe在32bit上會有許多trouble
 - 有找到在32bit上的Unofficial但無法使用  :cry:(https://pypi.org/project/mediapipe-rpi4/)
 - 受限於時間緊迫，**因此最後選擇在Ubuntu虛擬機下去實作**
 
