@@ -24,9 +24,9 @@
 |~~picamera v1.3(含支架)~~ |1      |
 |筆電VM(Linux)|1|
 |筆電的HD webcam| 1|
-:::spoiler 在虛擬機開攝像頭注意事項
+
+!在虛擬機開攝像頭注意事項
 **VM版本要改成6.1.40版本**才可以
-:::
 
 ## Problem on Raspberry pi
 - 在mediapipe和picamera上有矛盾，mediapipe(只支援在64bit),picamera(只支援在32bit)，一開始因為picamera指令和偵測不到的問題(可用```vcgencmd get_camera```偵測和查看有沒有```/dev/video0```)所以將Raspberrypi的OS從64bit改到32bit，後來經過嘗試後發現mediapipe在32bit上會有許多trouble
