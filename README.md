@@ -64,7 +64,7 @@
 - ```pushup.py```用cv2跟Pose Module，然後用左肩跟左手肘的Y軸距離去做判斷伏地挺身的次數
 
 ### GUI
-目前只實作在伏地挺身```pushup.py```上，仰臥起坐```sitout.py```還沒弄
+目前只實作在伏地挺身```pushup.py```上，仰臥起坐```sitout.py```尚未完工
 - 先下載 ```sudo apt-get install tkinter```才能使用python的GUI
 - 可以設定1分鐘到90分鐘(**可作為組間休息**)，以及要做幾下push ups
 - ![](https://i.imgur.com/KjSVVOw.png)
