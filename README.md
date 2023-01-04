@@ -10,9 +10,7 @@
 **相信在輔助健身的幫助並持之以恆下，人人都可以是范馬勇次郎**
 ![](https://i.imgur.com/RoK1cNw.png)
 
-:::danger
 ~~適度健身吸引異性，過度健身吸引同性~~
-:::
 ## Implementation Resources
 - 軟體
   - [MediaPipe](https://google.github.io/mediapipe):由Google開發的影像辨識套件(使用其中的pose estimation)
