@@ -51,7 +51,7 @@
 - ```sudo pip install mediapipe```
 - ```sudo pip install opencv-python```(要更完整版可以```sudo pip install opencv-contrib-python```)
 
-**先建立opencv與mediapipe的Pose Module**
+**先建立opencv與mediapipe的Pose Module**,
 **Pose Module**包含:
 - ```init function```: mediapipe pose solutions跟mediapipe畫圖工具
 - ```findPose```: 找mediapipe Pose的33個landmarks
