@@ -51,8 +51,7 @@
 - ```sudo pip install mediapipe```
 - ```sudo pip install opencv-python```(要更完整版可以```sudo pip install opencv-contrib-python```)
 
-- **先建立opencv與mediapipe的Pose Module**
-:::info
+**先建立opencv與mediapipe的Pose Module**
 **Pose Module**包含:
 - ```init function```: mediapipe pose solutions跟mediapipe畫圖工具
 - ```findPose```: 找mediapipe Pose的33個landmarks
@@ -60,7 +59,7 @@
 - ```calculateAngle```: 算出三個landmarks之間的角度
 - ```calculateY_axisDis```: 算出兩點之間的Y軸距離
 - ```calculateX_axisDis```: 算出兩點之間的X軸距離
-:::
+
 **PusuUp counter**: 
 - ```pushup.py```用cv2跟Pose Module，然後用左肩跟左手肘的Y軸距離去做判斷伏地挺身的次數
 
