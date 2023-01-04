@@ -50,6 +50,7 @@
 - ```sudo apt install pip```(如果沒有內建的話)
 - ```sudo pip install mediapipe```
 - ```sudo pip install opencv-python```(要更完整版可以```sudo pip install opencv-contrib-python```)
+
 - **先建立opencv與mediapipe的Pose Module**
 :::info
 **Pose Module**包含:
