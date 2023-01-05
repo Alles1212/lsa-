@@ -80,8 +80,8 @@
 - GUI會跑出小火車(sl)
 
 ## job Assignment
-- ```陳竣哲```:題目發想、材料購買、程式研擬、raspi研究、github
-- ```何智立```:程式研擬&彙整、raspi研究、github
+- ```陳竣哲```:題目發想、材料購買、程式研擬、raspi研究、影片、github
+- ```何智立```:程式研擬&彙整、raspi研究、影片、github
 - ```吳楚熙```:GUI、GUI結合程式、github
 - ```陳麒益```:程式研擬、raspi研究、ppt
 - ```林昱翔```:勞力活、ppt
