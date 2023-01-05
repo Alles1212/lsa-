@@ -38,7 +38,7 @@
   - [主程式參考網址](https://circuitdigest.com/microcontroller-projects/push-up-counter-using-raspberry-pi-4-and-mediapipe)
   - 根據上方網址的程式碼進行修改，並再實作仰臥起坐判別
 - mediapipe的```PoseModule```
-  - 參考freecodecamp(**YT可以找到**)並修改
+  - 參考[freecodecamp](https://www.youtube.com/watch?v=01sAkU_NvOY&ab_channel=freeCodeCamp.org)並修改
 
 ## Pose node in MediaPipe
 ![](https://i.imgur.com/Kdp0rM7.png)
