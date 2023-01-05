@@ -32,5 +32,5 @@ while True:
         cv2.imshow("Sit up", img)
 
 
-    if cv2.waitKey(1) == ord('q'):
+    if cv2.waitKey(1) == ord('q'):#按q結束
         break
