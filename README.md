@@ -62,7 +62,7 @@
 - ```calculateX_axisDis```: 算出兩點之間的X軸距離
 
 **PusuUp counter**: 
-- ```pushup.py```用cv2跟Pose Module，然後用左肩跟左手肘的Y軸距離去做判斷伏地挺身的次數
+- ```pushup.py```用cv2跟Pose Module，然後用**左肩跟左手肘的Y軸距離**去做判斷伏地挺身的次數
 
 ### GUI
 目前只實作在伏地挺身```pushup.py```上，仰臥起坐```situp.py```尚未完工
