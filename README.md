@@ -22,8 +22,8 @@
 |-----|--------|
 |~~Rasberry pi 3B~~|1       |
 |~~picamera v1.3(含支架)~~ |1      |
-|筆電VM(Linux)|1|
-|筆電的HD webcam| 1|
+|Laptop VM(Linux)|1|
+|Laptop HD webcam| 1|
 
 !在虛擬機開攝像頭注意事項
 **VM版本要改成6.1.40版本**才可以
@@ -101,7 +101,7 @@ https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech
 - 多個stackoverflow和github上的issues
 
 ### 線下詢問
-- Moli一些助教的無私幫忙
+- MOLi一些助教的無私幫忙
 
 ## Demo Video
 [Demo影片在這](https://drive.google.com/file/d/1hYK0VFFGBiLi75ySgKQAsHuctIxgKAOE/view?usp=share_link)
