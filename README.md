@@ -25,7 +25,7 @@
 |Laptop VM(Linux)|1|
 |Laptop HD webcam| 1|
 
-!在虛擬機開攝像頭注意事項
+!在虛擬機開攝影機注意事項
 **VM版本要改成6.1.40版本**才可以
 
 ## Problem on Raspberry pi
