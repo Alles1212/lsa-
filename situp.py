@@ -1,7 +1,7 @@
 import cv2
-from testModule import PoseModule
+from PoseModule import PoseModule
 
-cap = cv2.VideoCapture('situp3.mp4')
+cap = cv2.VideoCapture('situp3.mp4')#沒有要用影片要實際用的話，'situp3.mp4'改0
 count, status = 0, None
 # for find the max distances of y-axis
 maxDis = 0
