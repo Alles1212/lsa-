@@ -72,7 +72,7 @@
 - 做完設定的Push ups後會跳出小火車 :train: 
 
 ## Usage
-- Step1:安裝所有需要的檔案 (可直接git clone
+- Step1:安裝所有需要的檔案 (可直接```git clone git@github.com:Alles1212/lsa-WorkOut.git```把repo下載下來)
 - Step2:執行```python3 cutdown.py```時間到了會去呼叫```pushup.py```
 - Step3:大功告成
 
