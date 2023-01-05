@@ -77,7 +77,7 @@
 - Step3:大功告成
 
 ## Knowledge From Lecture
-- Ubuntu虛擬機環境
+- Ubuntu環境
 - GUI會跑出小火車(sl)
 
 ## job Assignment
