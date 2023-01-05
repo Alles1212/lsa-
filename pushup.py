@@ -1,7 +1,7 @@
 import cv2
 from PoseModule import PoseModule
 import os
-import cowsay
+import cowsay #可在Linux下執行，會有驚喜(記得先sudo pip install cowsay)
 import random
 
 
