@@ -3,7 +3,7 @@
 ## Concept Development
 **到底是平價的徒手健身吸引人，還是奢華的影像辨識輔助健身令人嚮往**
 - 健身時動作的正確性十分重要，**正確的姿勢**可以讓健身事半功倍
-- 實作的目的就是為了讓使用者能全神貫注在動作本身，透過影像辨識確認動作的準確性，同時一併讓使用者知道**正確做了多少組數**
+- 實作的目的就是為了讓使用者能全神貫注在動作本身，透過影像辨識確認動作的準確性，同時一併讓使用者知道**正確做了多少組數**和**消耗大卡**
 - 達到該組數會有**小火車獎勵** :train: :train: :train: 等待時間可作為**組間休息**
 
 
@@ -104,4 +104,4 @@ https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech
 - Moli一些助教的無私幫忙
 
 ## Demo Video
-[Demo影片在這]()
+[Demo影片在這](https://drive.google.com/file/d/1hYK0VFFGBiLi75ySgKQAsHuctIxgKAOE/view?usp=share_link)
