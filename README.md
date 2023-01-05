@@ -71,8 +71,8 @@
 - ![](https://i.imgur.com/KjSVVOw.png)
 - 做完設定的Push ups後會跳出小火車 :train: 
 
-## Useage
-- Step1:安裝所有需要的檔案
+## Usage
+- Step1:安裝所有需要的檔案 (可直接git clone
 - Step2:執行```python3 cutdown.py```時間到了會去呼叫```pushup.py```
 - Step3:大功告成
 
