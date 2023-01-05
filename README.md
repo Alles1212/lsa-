@@ -100,7 +100,7 @@
 https://www.youtube.com/watchv=QdlopCUuXxw&ab_channel=SamWestbyTech
 - install OpenCV:
 https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech
-- 多個stackoverflow和github上的issues
+- 多個stackoverflow和GitHub上的issues
 
 ### 線下詢問
 - MOLi一些助教的無私幫忙
