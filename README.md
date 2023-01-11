@@ -67,7 +67,7 @@
 
 ### GUI
 目前只實作在伏地挺身```pushup.py```上，仰臥起坐```situp.py```尚未完工
-- 先下載 ```sudo apt-get install tkinter```才能使用python的GUI
+- 先下載 ```sudo apt-get install python3-tk```才能使用python的GUI
 - 可以設定1分鐘到90分鐘(**可作為組間休息**)，以及要做幾下push ups
 - ![](https://i.imgur.com/KjSVVOw.png)
 - 做完設定的Push ups後會跳出小火車 :train: 
