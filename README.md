@@ -102,6 +102,7 @@
 https://www.youtube.com/watchv=QdlopCUuXxw&ab_channel=SamWestbyTech
 - install OpenCV:
 https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech
+https://youtu.be/vekblEk6UPc
 - 多個stackoverflow和GitHub上的issues
 
 ### 線下詢問
