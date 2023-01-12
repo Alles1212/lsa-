@@ -103,7 +103,7 @@ https://www.youtube.com/watchv=QdlopCUuXxw&ab_channel=SamWestbyTech
 - install OpenCV:
 https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech、
 https://youtu.be/vekblEk6UPc
--[About MediaPipe](https://medium.com/@RouYunPan/%E5%9C%A8%E6%A8%B9%E8%8E%93%E6%B4%BE%E4%B8%8A%E4%BD%BF%E7%94%A8mediapipe%E6%A1%86%E6%9E%B6-fa766a243a08)
+- [About MediaPipe](https://medium.com/@RouYunPan/%E5%9C%A8%E6%A8%B9%E8%8E%93%E6%B4%BE%E4%B8%8A%E4%BD%BF%E7%94%A8mediapipe%E6%A1%86%E6%9E%B6-fa766a243a08)
 - 多個stackoverflow和GitHub上的issues
 
 ### 線下詢問
