@@ -108,4 +108,4 @@ https://www.youtube.com/watch?v=QzVYnG-WaM4&ab_channel=SamWestbyTech
 - MOLi一些助教的無私幫忙
 
 ## Demo Video
-[Demo影片在這](https://drive.google.com/file/d/1hYK0VFFGBiLi75ySgKQAsHuctIxgKAOE/view?usp=share_link)
+[Demo影片在這](https://drive.google.com/file/d/1hYK0VFFGBiLi75ySgKQAsHuctIxgKAOE/view?usp=share_link)(影片中的cutdown.py即為```countdown.py```)
