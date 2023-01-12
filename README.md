@@ -75,7 +75,7 @@
 ## Usage
 - Step1:安裝所有需要的檔案 (可直接```git clone git@github.com:Alles1212/lsa-WorkOut.git```把repo下載下來)
 - Step2:執行```python3 countdown.py```可以設定等待時間和要做幾下
-- Step3:時間到了會去呼叫```pushup.py```，做完之後會跑cowsay等待休息時間再接著做```situp.py```(同時都會計算消耗大卡)
+- Step3:時間到了會去呼叫```pushup.py```，做完之後會跑cowsay(隨機圖)等待休息時間再接著做```situp.py```(同時都會計算消耗大卡)
 - Step4:又壯了一圈
 
 ## Knowledge From Lecture
