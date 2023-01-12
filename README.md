@@ -66,7 +66,7 @@
 - !!!組間休息時間結束後，最好準備好預備姿勢再點OK，比較不會多算!!
 
 ### GUI
-目前只實作在伏地挺身```pushup.py```上，仰臥起坐```situp.py```尚未完工
+目前實作在伏地挺身```pushup.py```上，做完後配合做仰臥起坐```situp.py```
 - 先下載 ```sudo apt-get install python3-tk```才能使用python的GUI
 - 可以設定1分鐘到90分鐘(**可作為組間休息**)，以及要做幾下push ups
 - ![](https://i.imgur.com/KjSVVOw.png)
