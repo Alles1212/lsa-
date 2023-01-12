@@ -69,7 +69,7 @@
 目前實作在伏地挺身```pushup.py```上，做完後配合做仰臥起坐```situp.py```
 - 先下載 ```sudo apt-get install python3-tk```才能使用python的GUI
 - 可以設定1分鐘到90分鐘(**可作為組間休息**)，以及要做幾下push ups
-- ![](https://i.imgur.com/KjSVVOw.png)
+- ![](![image](https://user-images.githubusercontent.com/82037602/212028463-3d718e6c-54de-4ae7-be48-6425c0c56de4.png))
 - 做完設定的Push ups後會跳出小火車 :train: 
 
 ## Usage
