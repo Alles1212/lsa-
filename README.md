@@ -34,7 +34,7 @@
 - 受限於時間緊迫，**因此最後選擇在Ubuntu虛擬機下去實作**
 
 ## Existing Source
-- 主程式```countdown.py``````pushup.py``` ```situp.py```
+- 主程式```countdown.py``` ```pushup.py``` ```situp.py```
   - [主程式參考網址](https://circuitdigest.com/microcontroller-projects/push-up-counter-using-raspberry-pi-4-and-mediapipe)
   - 根據上方網址的程式碼進行修改，並再實作仰臥起坐判別
 - mediapipe的```PoseModule```
